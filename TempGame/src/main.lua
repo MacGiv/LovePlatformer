@@ -33,16 +33,16 @@ function createPlayer()
 end
 
 function updatePlayerMovement(deltaTime, player)
-    if love.keyboard.isDown("right") then
+    if love.keyboard.isDown("d") then
         player.posX = player.posX + player.speed * deltaTime
     end
-    if love.keyboard.isDown("left") then
+    if love.keyboard.isDown("a") then
         player.posX = player.posX - player.speed * deltaTime
     end
-    if love.keyboard.isDown("down") then
+    if love.keyboard.isDown("s") then
         player.posY = player.posY + player.speed * deltaTime
     end
-    if love.keyboard.isDown("up") then
+    if love.keyboard.isDown("w") then
         player.posY = player.posY - player.speed * deltaTime
     end
 end

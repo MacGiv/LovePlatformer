@@ -29,6 +29,7 @@ function createPlayer()
     player.speed = 400
     player.height = 100
     player.width = 50
+    
     --player.image = love.graphics.newImage("res/Legacy_Fantasy_High_Forest/Character/Idle/Idle.gif")
 end
 

@@ -48,7 +48,8 @@ function love.draw()
     
         -- Dibujar obstáculos
         for i, obs in ipairs(obstacles) do
-            love.graphics.rectangle("fill", obs.x, obs.y, obs.width, obs.height)
+            -- "Gizmo" to see collision boundries
+            --love.graphics.rectangle("fill", obs.x, obs.y, obs.width, obs.height)
             love.graphics.draw(obs.image, obs.x, obs.y)
         end
     elseif gameState == "credits" then
@@ -175,7 +176,8 @@ end
 function drawPlayer()
     playerSpriteMargin = 10
     love.graphics.draw(player.image, player.posX-player.width, player.posY - playerSpriteMargin, 0, 1.5, 1.5)
-    love.graphics.rectangle("line", player.posX, player.posY, player.width, player.height)
+    -- "Gizmo" to see collision boundries
+    --love.graphics.rectangle("line", player.posX, player.posY, player.width, player.height)
 end
 
 function drawCredits()

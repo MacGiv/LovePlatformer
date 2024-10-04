@@ -1,3 +1,5 @@
+![BOX AVOIDER](https://img.itch.zone/aW1nLzE4MDMzODU4LnBuZw==/original/hZ3X4U.png)
+
 # BOX AVOIDER!
 Get ready for an exciting, endless adventure filled with action and quick reflexes! In BOX AVOIDER, you take on the role of a brave driver dodging obstacles in the black void space that you call "highway". Your goal is to survive as long as possible while accumulating points each time an obstacle gets out of the screen.
 
@@ -16,5 +18,3 @@ This game was created by Tomas Francisco Luchelli as part of the Professional Pr
 [https://macgivdev.itch.io/](README.md "MacGivDev")
 
 [MacGivDev](https://macgivdev.itch.io/)
-
-![BOX AVOIDER](ruta/a/tu/imagen.png](https://img.itch.zone/aW1nLzE4MDMzODU4LnBuZw==/original/hZ3X4U.png)

@@ -15,5 +15,9 @@ This game was created by Tomas Francisco Luchelli as part of the Professional Pr
 
 [https://macgivdev.itch.io/](README.md "MacGivDev")
 
+[Image]
+(https://notable.md/favicon.ico](https://img.itch.zone/aW1nLzE4MDMzODU4LnBuZw==/original/hZ3X4U.png)
+![Image reference] [1]
+[![Image reference + Link] [1]] [1]
 
 [1]: https://img.itch.zone/aW1nLzE4MDMzODU4LnBuZw==/original/hZ3X4U.png

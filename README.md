@@ -10,7 +10,7 @@ _Do you have what it takes to become the best player in BOX AVOIDER? Find out no
 
 Thank you for playing, and have fun dodging!
 
-##Credits
+## Credits
 This game was created by Tomas Francisco Luchelli as part of the Professional Practice 1: Development 1 course at ImageCampus.
 
 [https://macgivdev.itch.io/](README.md "MacGivDev")

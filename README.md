@@ -13,6 +13,10 @@ Thank you for playing, and have fun dodging!
 ## Credits:
 This game was created by Tomas Francisco Luchelli as part of the Professional Practice 1: Development 1 course at ImageCampus.
 
+[https://macgivdev.itch.io/](README.md "Title")
+[https://macgivdev.itch.io/][1]
+[1]: README.md "MacGivDev"
+
 [https://macgivdev.itch.io/](README.md "MacGivDev")
 
 [Image]
